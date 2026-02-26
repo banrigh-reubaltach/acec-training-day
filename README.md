@@ -21,9 +21,7 @@
 
 ### Session 1 — OT Tabletop Exercise (75 min)
 
-[Scenario, Role Cards, Inject Sequence & Worksheet](01_tabletop_exercise/PRINT_PACKET.md)
-
-Your team will work through a simulated cybersecurity incident on a federally funded FRCS commissioning project. Each person holds a role. Six injects escalate the situation. Your job is to make decisions — not find the right answer.
+Materials distributed in the room. Facilitator-led.
 
 ---
 
@@ -69,3 +67,11 @@ Everything below is yours to keep, share, and act on.
 | DFARS 252.204-7021 | https://www.acquisition.gov/dfars/252.204-7021 |
 | DoD CIO CMMC Page | https://dodcio.defense.gov/CMMC/ |
 | SPRS | https://www.sprs.csd.disa.mil/ |
+
+---
+
+## License
+
+These materials are licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+You are free to share and adapt these materials for any purpose, provided you give credit to **Charlene Watson and Lori Jackson** and distribute any derivatives under the same license.
